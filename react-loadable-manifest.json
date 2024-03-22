@@ -1,0 +1,26 @@
+{
+  "../components/ClientReload.tsx -> socket.io-client": {
+    "id": 3920,
+    "files": [
+      "static/chunks/920.aca77f8419de82b2.js"
+    ]
+  },
+  "../components/comments/index.tsx -> @/components/comments/Disqus": {
+    "id": 9939,
+    "files": [
+      "static/chunks/939.aac5b94f4f1cc3ff.js"
+    ]
+  },
+  "../components/comments/index.tsx -> @/components/comments/Giscus": {
+    "id": 6414,
+    "files": [
+      "static/chunks/414.686d1977d156be90.js"
+    ]
+  },
+  "../components/comments/index.tsx -> @/components/comments/Utterances": {
+    "id": 6147,
+    "files": [
+      "static/chunks/147.7cb91cdd40053e22.js"
+    ]
+  }
+}

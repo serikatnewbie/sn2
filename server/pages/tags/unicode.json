@@ -1,0 +1,1 @@
+{"pageProps":{"posts":[{"title":"DICE CTF 2022 – blazingfast","date":"2022-02-06T00:00:00.000Z","draft":false,"authors":["thebish0p"],"tags":["DICE CTF 2022","Web","XSS","Unicode"],"summary":"Bypassing length limitation with Unicode","slug":"dice-ctf-2022/blazingfast"}],"tag":"unicode"},"__N_SSG":true}
