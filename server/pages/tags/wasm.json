@@ -1,0 +1,1 @@
+{"pageProps":{"posts":[{"title":"BRICS+ CTF Quals 2023 – FlagCMP","date":"2023-09-26T00:00:00.000Z","draft":false,"authors":["thebadgod"],"tags":["BRICSCTF Quals 2023","Reverse","Wasm","VM"],"summary":"Wasm reversing; and pwning (kind of)","slug":"bricsctf-quals-2023/flagcmp"}],"tag":"wasm"},"__N_SSG":true}

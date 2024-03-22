@@ -1,0 +1,1 @@
+{"pageProps":{"posts":[{"title":"WolvSec CTF – CPA-Secure Diffie–Hellman?","date":"2022-03-26T00:00:00.000Z","draft":false,"authors":["sahuang"],"tags":["WolvSec CTF","Crypto","Diffie-Hellman","Prime","Mersenne","Factorization"],"summary":"Small subgroup attack on Diffie-Hellman...?","slug":"wolvsec-ctf/cpa"}],"tag":"prime"},"__N_SSG":true}

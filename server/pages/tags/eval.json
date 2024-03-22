@@ -1,0 +1,1 @@
+{"pageProps":{"posts":[{"title":"Knight CTF 2022 – Most Secure Calculator","date":"2022-01-21T00:00:00.000Z","draft":false,"authors":["blueset"],"tags":["Knight CTF 2022","PHP","eval"],"summary":"Do not ever eval() user input, even you thought you have sanitized.","slug":"knight-ctf-2021/most-secure-calculator"}],"tag":"eval"},"__N_SSG":true}

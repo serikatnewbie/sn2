@@ -1,0 +1,1 @@
+{"pageProps":{"posts":[{"title":"UTCTF 2022 – IRC","date":"2022-03-11T00:00:00.000Z","draft":false,"authors":["n0b0dy"],"tags":["UTCTF 2022","forensics","volatility"],"summary":"Analyze memory dump and recover password.","canonical":"","slug":"utctf-2022/irc"}],"tag":"utctf-2022"},"__N_SSG":true}

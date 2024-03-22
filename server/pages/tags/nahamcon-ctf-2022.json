@@ -1,0 +1,1 @@
+{"pageProps":{"posts":[{"title":"NahamCon CTF 2022 – GitOps","date":"2022-05-02T00:00:00.000Z","draft":false,"authors":["TheButcher"],"tags":["NahamCon CTF 2022","Misc","DevOps","Git","Pipeline","Gitea","DroneCI"],"summary":"Abuse the pipeline execution process to gain access to the host.","slug":"nahamcon-ctf-2022/gitops"}],"tag":"nahamcon-ctf-2022"},"__N_SSG":true}
