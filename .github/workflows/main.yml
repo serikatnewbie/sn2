@@ -9,6 +9,7 @@ permissions:
   contents: write
   pages: write
   deployments: write
+  id-token: write
 
 jobs:
   build:
